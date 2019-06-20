@@ -1,0 +1,21 @@
+.borde {
+    border-style: solid
+}
+
+.borde_row {
+    border-style: solid;
+    border-color: green;
+}
+
+.borde_col {
+    border-style: solid;
+    border-color: red;
+}
+#chat {
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.barra_superior {
+    border-bottom-style: solid;
+}
