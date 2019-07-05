@@ -1,3 +1,35 @@
+/*.container{
+    
+    border-style: solid;
+    background-color: rgb(8, 118, 245);
+    color: azure;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-inline-end: 25px;
+    border-top: 50px;
+    
+}
+ .row{
+     /*border-bottom-style:;
+     color: ;
+     background-color: blue;
+     padding: 500px;
+    }
+
+ .col{
+     /*border-style: solid;
+     color: brown;*/
+    }
+/*
+#img1{
+    width: 150px;
+}
+#col1{
+    border-bottom: 50px;
+    border-top: 100px;
+    
+}*/
+
 .borde {
     border-style: solid
 }
